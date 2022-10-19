@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            EKS DEMO Blog
+            추수감사조의 test WebPage 입니다
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
